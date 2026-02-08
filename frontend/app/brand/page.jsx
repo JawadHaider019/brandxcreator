@@ -1,6 +1,6 @@
 import BannerSection from "@/components/BannerSection";
-import BrandInfoSection from "@/components/Brand/BrandInfoSection";
-import BrandBenefitsSection from "@/components/Brand/BrandBenefitsSection";
+import BrandInfoSection from "@/components/brand/BrandInfoSection";
+import BrandBenefitsSection from "@/components/brand/BrandBenefitsSection";
 // import OurNetworkEditorial from "@/components/brand/BrandPlatformSection";
 import BrandPlatformSection from "@/components/brand/BrandPlatofromSection";
 
